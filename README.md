@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a _digital scrapbook app_ and a clean _portfolio website_
 - 🌱 I’m taking classes on ML, AI, Web Systems, Data Management, and Welding (?), while self-learning UI/UX principles
 
-- 💻 Tech Skills: React.js (my love), JavaScript, TypeScript, HTML/CSS, TailwindCSS, GSAP, Node.js, Python, Java, Git, MySQL, SQLite, Vercel, OpenAI API, Anthropic API, UI/UX, Creative User Experiences
+- 💻 Tech Skills: React.js (my love), Vite.js, JavaScript, TypeScript, HTML/CSS, TailwindCSS, GSAP, Node.js, Python, Java, Git, MySQL, SQLite, Vercel, OpenAI API, Anthropic API, UI/UX, Creative User Experiences
 - 💾 Software Skills: Figma, Adobe Photoshop, Adobe Illustrator, Word, Excel, Powerpoint
 - 📫 You can reach me at gerindraadi@gmail.com
 
